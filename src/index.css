@@ -3,15 +3,12 @@ html{
 }
 .container-fluid{
     background-color: darkslategray;
-
 }
 input[type="text"]{
     background: transparent;
     color: #fff;
-
 }
 input[type="text"]:focus{
     background: transparent;
     color: #fff;
-
 }
